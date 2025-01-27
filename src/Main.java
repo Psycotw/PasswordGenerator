@@ -1,4 +1,4 @@
-package psyco_tw
+package it.psyco.it
     
 import java.util.Scanner;
 import java.util.Random;
