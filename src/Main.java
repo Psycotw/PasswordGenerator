@@ -1,3 +1,5 @@
+package psyco_tw
+    
 import java.util.Scanner;
 import java.util.Random;
 public class Main {
@@ -7,7 +9,7 @@ public class Main {
         Random random = new Random();
 
 
-        System.out.println("inserisci la lunghezza della password: ");
+        System.out.println("Enter the lenght of the password: ");
 
         int passwordLenght = scanner.nextInt();
         StringBuilder passwordBuilder = new StringBuilder();
